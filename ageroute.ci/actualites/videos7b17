@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<feed xmlns="http://www.w3.org/2005/Atom"  xml:lang="fr-fr">
+	<title type="text">Vidéos - Agéroute CI</title>
+	<subtitle type="text"></subtitle>
+	<link rel="alternate" type="text/html" href="https://ageroute.ci"/>
+	<id>https://ageroute.ci/actualites/videos</id>
+	<updated>2022-02-07T09:15:49+00:00</updated>
+	<author>
+		<name>Agéroute CI</name>
+	</author>
+	<generator uri="https://www.joomla.org">Joomla! - Open Source Content Management</generator>
+	<link rel="self" type="application/atom+xml" href="https://ageroute.ci/actualites/videos?format=feed&amp;type=atom"/>
+	<entry>
+		<title>Travaux de renforcement de la route Côtière</title>
+		<link rel="alternate" type="text/html" href="https://ageroute.ci/actualites/videos/260-travaux-de-renforcement-de-la-route-cotiere"/>
+		<published>2021-09-30T09:10:00+00:00</published>
+		<updated>2021-09-30T09:10:00+00:00</updated>
+		<id>https://ageroute.ci/actualites/videos/260-travaux-de-renforcement-de-la-route-cotiere</id>
+		<author>
+			<name>Kouassi</name>
+		</author>
+		<summary type="html">::cck::270::/cck::&lt;br /&gt;::introtext::::/introtext::</summary>
+		<content type="html">::cck::270::/cck::&lt;br /&gt;::introtext::::/introtext::</content>
+		<category term="Vidéos" />
+	</entry>
+	<entry>
+		<title>Attention à la désinformation</title>
+		<link rel="alternate" type="text/html" href="https://ageroute.ci/actualites/videos/245-attention-a-la-desinformation"/>
+		<published>2021-08-26T13:40:00+00:00</published>
+		<updated>2021-08-26T13:40:00+00:00</updated>
+		<id>https://ageroute.ci/actualites/videos/245-attention-a-la-desinformation</id>
+		<author>
+			<name>Kouassi</name>
+		</author>
+		<summary type="html">::cck::255::/cck::&lt;br /&gt;::introtext::&lt;p&gt;Face à la pluie diluvienne observée le 25 Août 2021 dans toute la ville d'ABIDJAN, le Directeur Général de L'AGEROUTE, Monsieur Fabrice COULIBALY, tient à démentir la rumeur faisant mention de l'affaissement du Pont de la Riviera Golf.&lt;/p&gt;
+&lt;p&gt;Promptement présent sur les lieux, le DG affirme après constat : &amp;lt;&amp;lt; Il n'en est rien, l'ouvrage est là en construction et fonctionne très bien. Les déviations aussi sont là et sont bien entretenues. Ce qui se raconte sur les réseaux sociaux, c'est vraiment de la désinformation. Nous sommes là avec nos équipes pour intervenir en cas de besoin&amp;gt;&amp;gt;.&lt;/p&gt;::/introtext::</summary>
+		<content type="html">::cck::255::/cck::&lt;br /&gt;::introtext::&lt;p&gt;Face à la pluie diluvienne observée le 25 Août 2021 dans toute la ville d'ABIDJAN, le Directeur Général de L'AGEROUTE, Monsieur Fabrice COULIBALY, tient à démentir la rumeur faisant mention de l'affaissement du Pont de la Riviera Golf.&lt;/p&gt;
+&lt;p&gt;Promptement présent sur les lieux, le DG affirme après constat : &amp;lt;&amp;lt; Il n'en est rien, l'ouvrage est là en construction et fonctionne très bien. Les déviations aussi sont là et sont bien entretenues. Ce qui se raconte sur les réseaux sociaux, c'est vraiment de la désinformation. Nous sommes là avec nos équipes pour intervenir en cas de besoin&amp;gt;&amp;gt;.&lt;/p&gt;::/introtext::</content>
+		<category term="Vidéos" />
+	</entry>
+	<entry>
+		<title>Ageroute, plus que jamais, nous portons le  développement par les routes partout en Côte d'Ivoire. Excellente Année 2021.</title>
+		<link rel="alternate" type="text/html" href="https://ageroute.ci/actualites/videos/231-ageroute-plus-que-jamais-nous-portons-le-developpement-par-les-routes-partout-en-cote-d-ivoire-excellente-annee-2021"/>
+		<published>2020-12-31T10:10:00+00:00</published>
+		<updated>2020-12-31T10:10:00+00:00</updated>
+		<id>https://ageroute.ci/actualites/videos/231-ageroute-plus-que-jamais-nous-portons-le-developpement-par-les-routes-partout-en-cote-d-ivoire-excellente-annee-2021</id>
+		<summary type="html">::cck::241::/cck::&lt;br /&gt;::introtext::::/introtext::</summary>
+		<content type="html">::cck::241::/cck::&lt;br /&gt;::introtext::::/introtext::</content>
+		<category term="Vidéos" />
+	</entry>
+	<entry>
+		<title>Réunion du Conseil d'Administration de l'Ageroute</title>
+		<link rel="alternate" type="text/html" href="https://ageroute.ci/actualites/videos/229-6-eme-et-derniere-reunion-du-conseil-d-administration-de-l-ageroute-bilan-et-perspectives"/>
+		<published>2020-12-24T11:29:28+00:00</published>
+		<updated>2020-12-24T11:29:28+00:00</updated>
+		<id>https://ageroute.ci/actualites/videos/229-6-eme-et-derniere-reunion-du-conseil-d-administration-de-l-ageroute-bilan-et-perspectives</id>
+		<summary type="html">::cck::239::/cck::&lt;br /&gt;::introtext::::/introtext::</summary>
+		<content type="html">::cck::239::/cck::&lt;br /&gt;::introtext::::/introtext::</content>
+		<category term="Vidéos" />
+	</entry>
+	<entry>
+		<title>Les routes réhabilitées en Côte d'Ivoire de 2011 2020.</title>
+		<link rel="alternate" type="text/html" href="https://ageroute.ci/actualites/videos/226-les-routes-re-habilite-es-en-cote-d-ivoire-de-2011-2020"/>
+		<published>2020-10-30T13:36:34+00:00</published>
+		<updated>2020-10-30T13:36:34+00:00</updated>
+		<id>https://ageroute.ci/actualites/videos/226-les-routes-re-habilite-es-en-cote-d-ivoire-de-2011-2020</id>
+		<summary type="html">::cck::236::/cck::&lt;br /&gt;::introtext::::/introtext::</summary>
+		<content type="html">::cck::236::/cck::&lt;br /&gt;::introtext::::/introtext::</content>
+		<category term="Vidéos" />
+	</entry>
+	<entry>
+		<title>Les ouvrages d'art en Côte d'Ivoire de 2011 à 2020.</title>
+		<link rel="alternate" type="text/html" href="https://ageroute.ci/actualites/videos/225-les-ouvrages-d-art-en-cote-d-ivoire-de-2011-a-2020"/>
+		<published>2020-10-30T13:34:00+00:00</published>
+		<updated>2020-10-30T13:34:00+00:00</updated>
+		<id>https://ageroute.ci/actualites/videos/225-les-ouvrages-d-art-en-cote-d-ivoire-de-2011-a-2020</id>
+		<summary type="html">::cck::235::/cck::&lt;br /&gt;::introtext::::/introtext::</summary>
+		<content type="html">::cck::235::/cck::&lt;br /&gt;::introtext::::/introtext::</content>
+		<category term="Vidéos" />
+	</entry>
+</feed>

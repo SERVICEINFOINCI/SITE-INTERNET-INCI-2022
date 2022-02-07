@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Vidéos - Agéroute CI</title>
+		<description><![CDATA[]]></description>
+		<link>https://ageroute.ci/actualites/videos</link>
+		<lastBuildDate>Mon, 07 Feb 2022 09:15:48 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://ageroute.ci/actualites/videos?format=feed&amp;type=rss"/>
+		<language>fr-fr</language>
+		<item>
+			<title>Travaux de renforcement de la route Côtière</title>
+			<link>https://ageroute.ci/actualites/videos/260-travaux-de-renforcement-de-la-route-cotiere</link>
+			<guid isPermaLink="true">https://ageroute.ci/actualites/videos/260-travaux-de-renforcement-de-la-route-cotiere</guid>
+			<description><![CDATA[::cck::270::/cck::<br />::introtext::::/introtext::]]></description>
+			<category>Vidéos</category>
+			<pubDate>Thu, 30 Sep 2021 09:10:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Attention à la désinformation</title>
+			<link>https://ageroute.ci/actualites/videos/245-attention-a-la-desinformation</link>
+			<guid isPermaLink="true">https://ageroute.ci/actualites/videos/245-attention-a-la-desinformation</guid>
+			<description><![CDATA[::cck::255::/cck::<br />::introtext::<p>Face à la pluie diluvienne observée le 25 Août 2021 dans toute la ville d'ABIDJAN, le Directeur Général de L'AGEROUTE, Monsieur Fabrice COULIBALY, tient à démentir la rumeur faisant mention de l'affaissement du Pont de la Riviera Golf.</p>
+<p>Promptement présent sur les lieux, le DG affirme après constat : &lt;&lt; Il n'en est rien, l'ouvrage est là en construction et fonctionne très bien. Les déviations aussi sont là et sont bien entretenues. Ce qui se raconte sur les réseaux sociaux, c'est vraiment de la désinformation. Nous sommes là avec nos équipes pour intervenir en cas de besoin&gt;&gt;.</p>::/introtext::]]></description>
+			<category>Vidéos</category>
+			<pubDate>Thu, 26 Aug 2021 13:40:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Ageroute, plus que jamais, nous portons le  développement par les routes partout en Côte d'Ivoire. Excellente Année 2021.</title>
+			<link>https://ageroute.ci/actualites/videos/231-ageroute-plus-que-jamais-nous-portons-le-developpement-par-les-routes-partout-en-cote-d-ivoire-excellente-annee-2021</link>
+			<guid isPermaLink="true">https://ageroute.ci/actualites/videos/231-ageroute-plus-que-jamais-nous-portons-le-developpement-par-les-routes-partout-en-cote-d-ivoire-excellente-annee-2021</guid>
+			<description><![CDATA[::cck::241::/cck::<br />::introtext::::/introtext::]]></description>
+			<category>Vidéos</category>
+			<pubDate>Thu, 31 Dec 2020 10:10:00 +0000</pubDate>
+		</item>
+		<item>
+			<title>Réunion du Conseil d'Administration de l'Ageroute</title>
+			<link>https://ageroute.ci/actualites/videos/229-6-eme-et-derniere-reunion-du-conseil-d-administration-de-l-ageroute-bilan-et-perspectives</link>
+			<guid isPermaLink="true">https://ageroute.ci/actualites/videos/229-6-eme-et-derniere-reunion-du-conseil-d-administration-de-l-ageroute-bilan-et-perspectives</guid>
+			<description><![CDATA[::cck::239::/cck::<br />::introtext::::/introtext::]]></description>
+			<category>Vidéos</category>
+			<pubDate>Thu, 24 Dec 2020 11:29:28 +0000</pubDate>
+		</item>
+		<item>
+			<title>Les routes réhabilitées en Côte d'Ivoire de 2011 2020.</title>
+			<link>https://ageroute.ci/actualites/videos/226-les-routes-re-habilite-es-en-cote-d-ivoire-de-2011-2020</link>
+			<guid isPermaLink="true">https://ageroute.ci/actualites/videos/226-les-routes-re-habilite-es-en-cote-d-ivoire-de-2011-2020</guid>
+			<description><![CDATA[::cck::236::/cck::<br />::introtext::::/introtext::]]></description>
+			<category>Vidéos</category>
+			<pubDate>Fri, 30 Oct 2020 13:36:34 +0000</pubDate>
+		</item>
+		<item>
+			<title>Les ouvrages d'art en Côte d'Ivoire de 2011 à 2020.</title>
+			<link>https://ageroute.ci/actualites/videos/225-les-ouvrages-d-art-en-cote-d-ivoire-de-2011-a-2020</link>
+			<guid isPermaLink="true">https://ageroute.ci/actualites/videos/225-les-ouvrages-d-art-en-cote-d-ivoire-de-2011-a-2020</guid>
+			<description><![CDATA[::cck::235::/cck::<br />::introtext::::/introtext::]]></description>
+			<category>Vidéos</category>
+			<pubDate>Fri, 30 Oct 2020 13:34:00 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
