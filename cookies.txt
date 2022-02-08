@@ -1,4 +1,0 @@
-# HTTrack Website Copier Cookie File
-# This file format is compatible with Netscape cookies
-ageroute.ci	TRUE	/	FALSE	1999999999	daa6eed11223d4872f4d65d287bb56ae	9s5nb9bsrgf6tcjcttljsedn6j
-
