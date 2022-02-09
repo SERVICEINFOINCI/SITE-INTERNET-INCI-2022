@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- generator="Joomla! - Open Source Content Management" -->
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Documentations - Agéroute CI</title>
+		<description><![CDATA[]]></description>
+		<link>https://ageroute.ci/actualites/documentations/34-reglements</link>
+		<lastBuildDate>Mon, 07 Feb 2022 09:17:24 +0000</lastBuildDate>
+		<generator>Joomla! - Open Source Content Management</generator>
+		<atom:link rel="self" type="application/rss+xml" href="https://ageroute.ci/actualites/documentations/34-reglements?format=feed&amp;type=rss"/>
+		<language>fr-fr</language>
+		<item>
+			<title>Règlement N°14/2005/CM/UEMOA</title>
+			<link>https://ageroute.ci/actualites/documentations/34-reglements/93-reglement-n-14-2005-cm-uemoa</link>
+			<guid isPermaLink="true">https://ageroute.ci/actualites/documentations/34-reglements/93-reglement-n-14-2005-cm-uemoa</guid>
+			<description><![CDATA[::cck::101::/cck::<br />::introtext::<div class="uk-text-justify">
+  <p>L’application intégrale du Règlement 14 dans tous les pays membres de l’UEMAO a pour but de préserver les infrastructures routières et de contribuer à la durabilité des investissements réalisés dans les routes</p>
+<p>Ce règlement adopté par les chefs d’Etats et de gouvernements de l’UEMOA en 2005, vise à lutter contre la surcharge des véhicules poids lourds de transport de marchandises. A cet effet, des postes de pesage déjà installés à la sortie des villes d’Abidjan, Ouangolodougou à la frontière du Burkina Faso et de Pôgô, à la frontière du Mali, etc., visent à renforcer le dispositif de contrôle des camions routiers circulant entre les différents pays de la sous-région.</p>
+  <img class="uk-margin-bottom" src="https://ageroute.ci/images/page/station-pesage.jpg" alt=""/>
+</div>::/introtext::]]></description>
+			<category>Règlements</category>
+			<pubDate>Wed, 01 Mar 2017 13:34:01 +0000</pubDate>
+		</item>
+	</channel>
+</rss>
