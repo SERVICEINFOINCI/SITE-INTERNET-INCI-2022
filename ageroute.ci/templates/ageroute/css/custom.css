@@ -7,18 +7,18 @@
 
 /* BACKGROUND & COLORS */
 
-body{background:#69493a; /*overflow:visible !important;*/}
-body{background:#378341 url('logo_inci.png') top center no-repeat fixed;}
+body{background:#f5f5f5; /*overflow:visible !important;*/}
+body{background:#fdefd2 url('../images/bg.jpg') top center no-repeat fixed;}
 
 .bg-transparent{background:transparent; !important;}
-.bg-white{background:rgb(250, 248, 244) !important;}
-.bg-orange{background:#ece8e4 !important;}
-.bg-blue{background:#037512 !important;}
-.bg-blue-light{background:#328511 !important;}
-.bg-blue-dark{background:#2dac14 !important;}
-.txt-white{color:rgb(13, 175, 8) !important;}
+.bg-white{background:#FFF !important;}
+.bg-orange{background:#ff7b04 !important;}
+.bg-blue{background:#134980 !important;}
+.bg-blue-light{background:#2c6096 !important;}
+.bg-blue-dark{background:#114376 !important;}
+.txt-white{color:#FFF !important;}
 .txt-orange{color:#ff7b04 !important;}
-.txt-blue{color:#33b819 !important;}
+.txt-blue{color:#134980 !important;}
 .txt-grey{color:#999999 !important;}
 
 .text-upper{text-transform:uppercase;}
@@ -29,8 +29,8 @@ body{background:#378341 url('logo_inci.png') top center no-repeat fixed;}
 .header{margin-top:-25px;}
 .header .header-container{position:relative; bottom:-25px; overflow:visible; z-index:9999;}
 .tm-toolbar{margin:25px 0 10px 0;}
-.tm-toolbar a{color:#0e5807;}
-.tm-toolbar a:hover{color:#c58349;}
+.tm-toolbar a{color:#134980;}
+.tm-toolbar a:hover{color:#eb7206;}
 .navbar{border-radius:6px 6px 0 0; padding:10px;}
 .navbar .tm-navbar{margin:8px 0 !important;}
 #tm-slider figure{margin:0 !important;}
@@ -78,7 +78,7 @@ article.uk-search-result .tm-blog-wrapper .tm-article-introtexte *{display:block
 .uk-breadcrumb a:hover{color:#b0c4d8;}
 .uk-breadcrumb > li:nth-last-child(n+2):after{content:'●';}
 
-.navbottom{background:#fa9848; padding:5px 20px; border-radius:0 0 6px 6px;}
+.navbottom{background:#134980; padding:5px 20px; border-radius:0 0 6px 6px;}
 .navbottom .float-title{position:absolute; top:0; height:100%; right:0; border-radius:0 6px 6px 0; background:#134980;}
 .navbottom .float-title:before{content:''; position:absolute; left:-29px; top:0px; border-style:solid; border-color:rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #134980 rgba(0, 0, 0, 0); border-width:0 0 120px 30px;}
 .navbottom .float-title h3.title{color:#FFF; padding:30% 20px; margin:0; font-size:15px; font-weight:700; font-family:'Varela Round'; }
