@@ -67,7 +67,8 @@ article.uk-search-result .tm-blog-wrapper .tm-article-introtexte *{display:block
 
 
 /* STYLE */
-.social_icons i{display:inline-block; width:25px; height:25px; line-height:25px; font-size:12px; text-align:center; background:#eb7206; color:#FFF; border-radius:40px; margin-right:3px; transition:all .2s; -webkit-transition:all .2s;}
+.social_icons i{display:inline-block; width:25px; height:25px; line-height:25px; font-size:12px; text-align:center; background:#eb7206; color:#FFF;
+   border-radius:40px; margin-right:3px; transition:all .2s; -webkit-transition:all .2s;}
 .social_icons a:hover{opacity:1;}
 .social_icons a:hover i{background:#FFF; color:#c66008;}
 
