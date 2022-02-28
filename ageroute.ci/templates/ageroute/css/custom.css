@@ -79,9 +79,9 @@ article.uk-search-result .tm-blog-wrapper .tm-article-introtexte *{display:block
 .uk-breadcrumb a:hover{color:#b0c4d8;}
 .uk-breadcrumb > li:nth-last-child(n+2):after{content:'●';}
 
-.navbottom{background:#134980; padding:5px 20px; border-radius:0 0 6px 6px;}
-.navbottom .float-title{position:absolute; top:0; height:100%; right:0; border-radius:0 6px 6px 0; background:#134980;}
-.navbottom .float-title:before{content:''; position:absolute; left:-29px; top:0px; border-style:solid; border-color:rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #134980 rgba(0, 0, 0, 0); border-width:0 0 120px 30px;}
+.navbottom{background:#0c7911; padding:5px 20px; border-radius:0 0 6px 6px;}
+.navbottom .float-title{position:absolute; top:0; height:100%; right:0; border-radius:0 6px 6px 0; background:#0c7911;}
+.navbottom .float-title:before{content:''; position:absolute; left:-29px; top:0px; border-style:solid; border-color:rgba(0, 0, 0, 0) rgba(0, 0, 0, 0) #fff rgba(0, 0, 0, 0); border-width:0 0 120px 30px;}
 .navbottom .float-title h3.title{color:#FFF; padding:30% 20px; margin:0; font-size:15px; font-weight:700; font-family:'Varela Round'; }
 
 .teaser .teaser-img{margin-left:-20px; margin-right:-20px; margin-top:-20px;}
