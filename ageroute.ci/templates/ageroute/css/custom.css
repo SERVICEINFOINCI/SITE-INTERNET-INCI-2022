@@ -8,7 +8,7 @@
 /* BACKGROUND & COLORS */
 
 body{background:#f5f5f5; /*overflow:visible !important;*/}
-body{background:#f89742 url('../images/bg.jpg') top center no-repeat fixed;}
+body{background:#f89742 url('../images/bg-teaser.jpg') top center no-repeat fixed;}
 
 .bg-transparent{background:transparent; !important;}
 .bg-white{background:#FFF !important;}
